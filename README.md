@@ -6,7 +6,7 @@ This project provides a robust solution for gesture classification. The system i
 
 -> Live Mode: Processes real-time feed from a connected webcam.
 
--Static Mode: Performs analysis on pre-captured input images stored in the system.
+-> Static Mode: Performs analysis on pre-captured input images stored in the system.
 
 The pipeline utilizes skin segmentation, morphological noise reduction, and convexity hull algorithms to accurately recognize and classify hand gestures regardless of the input source.
 
@@ -27,8 +27,6 @@ Real-time Processing: Optimized webcam integration for low-latency feedback.
 /src: Contains the primary MATLAB scripts (.m files) and GUI interfaces.
 
 /docs: Project report and presentation slides (PPT).
-
-/assets: Sample images and diagrams showing the segmentation process.
 
 # 🎬 Demo
 [![Watch the Demo](https://img.youtube.com/vi/QVt9dW78i60/0.jpg)](https://www.youtube.com/watch?v=QVt9dW78i60)
