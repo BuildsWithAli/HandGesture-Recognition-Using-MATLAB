@@ -31,7 +31,8 @@ Real-time Processing: Optimized webcam integration for low-latency feedback.
 /assets: Sample images and diagrams showing the segmentation process.
 
 # 🎬 Demo
-[Click here to watch the project demonstration video] (Insert your link here)
+[![Watch the Demo](https://img.youtube.com/vi/QVt9dW78i60/0.jpg)](https://www.youtube.com/watch?v=QVt9dW78i60)
+*(Click the image above to watch the full project demo on YouTube)*
 
 
 # 👨‍💻 Project Details
